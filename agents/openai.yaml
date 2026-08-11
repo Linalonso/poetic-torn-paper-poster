@@ -1,0 +1,7 @@
+interface:
+  display_name: "诗意撕纸影像海报"
+  short_description: "从图片或关键词直接创作 9:16 诗意撕纸影像海报"
+  default_prompt: "使用这套视觉规范，把我提供的图片或关键词直接制作成 9:16 诗意撕纸影像海报。"
+
+policy:
+  allow_implicit_invocation: true
